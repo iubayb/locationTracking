@@ -1,0 +1,30 @@
+{
+  "name": "real_time_location",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@babel/core": "^7.20.12",
+    "@emotion/css": "^11.10.5",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@next/font": "13.1.6",
+    "@types/node": "18.13.0",
+    "@types/react": "18.0.28",
+    "@types/react-dom": "18.0.11",
+    "@types/socket.io-client": "^3.0.0",
+    "leaflet": "^1.9.3",
+    "next": "13.1.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "redis": "^4.6.4",
+    "socket.io": "^4.6.0",
+    "socket.io-client": "^4.6.0",
+    "typescript": "4.9.5"
+  }
+}
